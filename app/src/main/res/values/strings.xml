@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment-3-Week-3</string>
+    <string name="water_resource_name">Water Resource Name</string>
+    <string name="location">Location</string>
+    <string name="type">Type</string>
+    <string name="add">Add</string>
+    <string name="water_resource_name_field_is_empty">Water Resource Name Field is Empty</string>
+    <string name="location_field_is_empty">Location Field is Empty</string>
+    <string name="type_field_is_empty">Type Field is Empty</string>
+</resources>
